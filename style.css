@@ -1,0 +1,48 @@
+h1{
+    color:cadetblue;
+}
+
+.main-container{
+    text-align:  center;
+}
+
+.breads{
+    text-align: center;
+    margin-top: 80px;
+    height: 200px;
+}
+
+.breads-container {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 250px;
+    border: 1px solid black;
+}
+
+select{
+    width: 250px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 100px;
+    background-color: #0a0a23; 
+}
+
+
+@media screen and (min-width: 400px) {
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 430px;
+        height: 300px;
+        background-color: #0a0a23; 
+    }
+}    
+
+
+
